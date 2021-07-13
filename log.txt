@@ -1,0 +1,9 @@
+Player C: gets 5 and 2 with a sum 7
+Player D: gets 1 and 2 with a sum 3
+Player A: gets 6 and 4 with a sum 10
+Player B: gets 4 and 5 with a sum 9
+Player C: gets 3 and 5 with a sum 8
+Player D: gets 1 and 6 with a sum 7
+Player A: gets 5 and 3 with a sum 8
+DEALER: The winning team is A and C
+
