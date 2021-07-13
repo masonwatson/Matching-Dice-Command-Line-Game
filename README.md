@@ -8,5 +8,5 @@
 
 ## **Instructions**
 ###### Compiling the main.c file creates the compiled executable a.out. To run a.out, type the following: 
-######&nbsp;&nbsp;&nbsp;• ./a.out [seed]
-######&nbsp;&nbsp;&nbsp;• i.e. ./a.out 1445 or ./a.out 3
+###### &nbsp;&nbsp;&nbsp;• ./a.out [seed]
+###### &nbsp;&nbsp;&nbsp;• i.e. ./a.out 1445 or ./a.out 3
