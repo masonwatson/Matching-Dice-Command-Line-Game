@@ -7,3 +7,17 @@ Player D: gets 1 and 6 with a sum 7
 Player A: gets 5 and 3 with a sum 8
 DEALER: The winning team is A and C
 
+Player B: gets 5 and 3 with a sum 8
+Player C: gets 6 and 2 with a sum 8
+Player D: gets 1 and 1 with a sum 2
+Player A: gets 4 and 5 with a sum 9
+Player B: gets 6 and 3 with a sum 9
+Player C: gets 1 and 4 with a sum 5
+Player D: gets 3 and 2 with a sum 5
+Player A: gets 1 and 1 with a sum 2
+Player B: gets 4 and 2 with a sum 6
+Player C: gets 4 and 5 with a sum 9
+Player D: gets 3 and 4 with a sum 7
+Player A: gets 3 and 6 with a sum 9
+DEALER: The winning team is A and C
+
