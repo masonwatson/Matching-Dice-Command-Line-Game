@@ -7,6 +7,6 @@
 ###### This project was implemented in C using POSIX threads. For this project, I used the libraries stdio.h, stdlib.h, stdbool.h, and pthreads.h.
 
 ## **Instructions**
-###### Compiling the main.c file creates the compiled executable a.out. To run a.out, type the following: 
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ./a.out [seed]
+###### Compiling the main.c file creates the compiled executable a.out. To run a.out, open a terminal, change the directory to the project file, and type the following: 
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ./a.out [type a seed]
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• i.e. ./a.out 1445 or ./a.out 3
